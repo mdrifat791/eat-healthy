@@ -45,10 +45,12 @@
 }
 /* about me part start */
 #about_me{
-    width: 100%;
-    height: 600px;
-    flex-shrink: 0;
-    background-image: url(../image/7.png) no-repete cover;
+     width: 100%;
+  height: 600px;
+  flex-shrink: 0;
+  background-image: url(../image/7.png);
+  background-repeat: no-repeat;
+  background-size: cover;
     
 }
 #about_me .about_all{
