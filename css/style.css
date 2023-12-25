@@ -43,3 +43,24 @@
 #main-section .banner .showcase{
     margin-block-start: 83px;
 }
+/* about me part start */
+#about_me{
+    width: 1440px;
+    height: 600px;
+    flex-shrink: 0;
+    background-image: url(../image/7.png);
+    
+}
+#about_me .about_all{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#about_me .about_all img{
+    padding-inline-start: 199px;
+    padding-block-start: 64px;
+}
+#about_me .about_all .about_title{
+    /* padding-block: ; */
+}
+/* about me part end */
